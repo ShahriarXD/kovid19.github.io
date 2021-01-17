@@ -1,0 +1,12 @@
+.container{
+    background: rgba(64, 179, 29, 0.842);
+    padding: 50;
+}
+
+h1{
+    color: rgb(221, 80, 9);
+}
+
+p{
+    color: rgb(161, 10, 10);
+}
